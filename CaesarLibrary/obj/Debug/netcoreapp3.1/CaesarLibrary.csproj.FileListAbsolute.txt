@@ -1,0 +1,9 @@
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\bin\Debug\netcoreapp3.1\CaesarLibrary.deps.json
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\bin\Debug\netcoreapp3.1\CaesarLibrary.dll
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\bin\Debug\netcoreapp3.1\CaesarLibrary.pdb
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\obj\Debug\netcoreapp3.1\CaesarLibrary.csprojAssemblyReference.cache
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\obj\Debug\netcoreapp3.1\CaesarLibrary.AssemblyInfoInputs.cache
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\obj\Debug\netcoreapp3.1\CaesarLibrary.AssemblyInfo.cs
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\obj\Debug\netcoreapp3.1\CaesarLibrary.csproj.CoreCompileInputs.cache
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\obj\Debug\netcoreapp3.1\CaesarLibrary.dll
+C:\Programavimas\net\CryptoCaesar\CaesarLibrary\obj\Debug\netcoreapp3.1\CaesarLibrary.pdb

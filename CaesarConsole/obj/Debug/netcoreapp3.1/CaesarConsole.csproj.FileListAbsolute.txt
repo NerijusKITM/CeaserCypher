@@ -1,0 +1,16 @@
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarConsole.exe
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarConsole.deps.json
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarConsole.runtimeconfig.json
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarConsole.runtimeconfig.dev.json
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarConsole.dll
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarConsole.pdb
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.csprojAssemblyReference.cache
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.AssemblyInfoInputs.cache
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.AssemblyInfo.cs
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.csproj.CoreCompileInputs.cache
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.dll
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.pdb
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.genruntimeconfig.cache
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarLibrary.dll
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\bin\Debug\netcoreapp3.1\CaesarLibrary.pdb
+C:\Programavimas\net\CryptoCaesar\CaesarConsole\obj\Debug\netcoreapp3.1\CaesarConsole.csproj.CopyComplete

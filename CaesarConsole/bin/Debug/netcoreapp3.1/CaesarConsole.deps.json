@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CaesarConsole/1.0.0": {
+        "dependencies": {
+          "CaesarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CaesarConsole.dll": {}
+        }
+      },
+      "CaesarLibrary/1.0.0": {
+        "runtime": {
+          "CaesarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaesarConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CaesarLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
